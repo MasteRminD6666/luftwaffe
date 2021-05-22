@@ -1,0 +1,52 @@
+#logo{
+		}
+
+		body{
+			background-color: #ebeff5;
+		}
+
+
+		#total-orders{
+			background-color: #4cb4c7;
+		}
+
+
+		#orders-delivered{
+			background-color: #32CD32;
+		}
+
+		#orders-pending{
+			background-color: #708090;
+		}
+
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+.logo {
+
+         width: 100px;
+         height: 100px;
+         display: block;
+         text-indent: -9999px;
+}
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+ .bs-example{
+        margin: 20px;
+    }
+
+
+.navbar-brand img {
+  height: 50px;
+  float: left;
+  margin-right: 7px;
+}
